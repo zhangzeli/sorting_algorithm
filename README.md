@@ -1,8 +1,9 @@
-# 排序算法（）  
+# 排序算法  
 
 ![常见的排序算法列表](https://github.com/zhangzeli/sorting_algorithm/blob/master/src/main/resources/sorts.jpg)
 
 ## 选择排序
+
 
 ## 冒泡排序
 
@@ -24,5 +25,10 @@
 
 ## 桶排序
 
+### 计数排序
+>算法思想 
+>>某大型企业数万员工年龄排序  
+>>如何快速得知高考名词
 
 ## 基数排序
+
