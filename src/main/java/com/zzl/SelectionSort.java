@@ -33,8 +33,8 @@ public class SelectionSort {
 
         }
 
-        SortUtil.print(arr);
-        
+//        SortUtil.print(arr);
+
         return  arr;
     }
 }
