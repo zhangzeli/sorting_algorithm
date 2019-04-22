@@ -4,7 +4,7 @@
 
 ## 选择排序
 >[SelectionSort](https://github.com/zhangzeli/sorting_algorithm/tree/master/src/main/java/com/zzl/SelectionSort.java)
-
+>> 不常用
 
 ## 冒泡排序
 
