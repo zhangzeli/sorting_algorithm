@@ -35,7 +35,8 @@ public class DataChecker {
 
 //        SelectionSort.sort(arr2);
 //        BubbleSort.sort(arr2);
-        InsertionSort.sort(arr2);
+//        InsertionSort.sort(arr2);
+        ShellSort.sort(arr2);
         boolean same = true;
         for(int i=0;i<arr2.length;i++){
             if (arr[i]!=arr2[i]) same =false;
