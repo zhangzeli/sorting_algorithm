@@ -16,6 +16,7 @@ public class SortUtil {
     }
 
     public static void swapBit(int [] arr,int i ,int j){
+       if(i==j)return;
         arr[i]=arr[i]^arr[j];
         arr[j]=arr[i]^arr[j];
         arr[i]=arr[i]^arr[j];
@@ -27,4 +28,10 @@ public class SortUtil {
             System.out.print(arr[i] + " ");
         }
     }
+
+    public static void main(String[] args) {
+        int [] arr ={10,6,3,10};
+        swapBit(arr,0,0);
+        print(arr);
+   }
 }
